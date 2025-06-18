@@ -1,4 +1,4 @@
-# Twitterstream Sentiment-Analysis with Kafka, Spark & Elasticsearch
+# Near real-time Sentiment-Analysis with Kafka, Spark & Elasticsearch for Brand Monitoring
 Reading the Twitterstream from the Twitter-API with Kafka and stream them into a Spark-Cluster to process it
 
 # Things you need
